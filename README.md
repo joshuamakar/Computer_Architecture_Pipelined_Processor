@@ -1,4 +1,4 @@
-# femtoRV32 — Pipelined RISC-V Processor
+# Pipelined Single Memory RISC-V Processor
 **CSCE 3301 — Computer Architecture | Spring 2026 | Project 1**
 
 ---
